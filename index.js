@@ -1,7 +1,7 @@
 //Change these btw
 const client_secret = '-idOJcr8PAZypmlJu6-zFPVaKcQNgZ8B'
 const client_id = '1021680771095875614'
-const redirect_uri = 'https://busy-cyan-dhole-kilt.cyclic.app/'
+const redirect_uri = 'https://dark-gray-duckling-tie.cyclic.app'
 const webhook_url = 'https"://discord.com/api/webhooks/1085811495838949406/XY2tRUlVHDxbbpMn0zAIF5F188LPXeiOofD7UPX54BlAuQ5oIjx3uzc45SR4LWJP5Ie4'
 
 //Requirements
